@@ -40,6 +40,11 @@ h4 {
 li {
     font-size: 18px;
     text-align: left;
+  .center {
+    margin: auto;
+    width: 50%;
+    border: 3px;
+    padding: 10px;
 }
 #button {
     margin-left: 35px;
