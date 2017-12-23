@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+  <title>SHASHATUBE</title>
+  <link rel="stytlesheet" href="styles.css">
+</head>
+
+<body>
+  <nav>
+  <ul class="topnav">
+  <li><a href="#HOME">Home</a></li>
+  <li><a href="#NEWS">News</a></li>
+  <li><a href="#TVDRAMA">TVDRAMA</a></li>
+  <li><a href="#INTERVIEW">INTERVIEW</a></li>
+  <li><a href="#MUSIC VIDEO">MUSIC VIDEO</a></li>
+   <li><a href="#SPORTS">SPORTS</a></li>
+   <li><a href="#COMEDY">COMEDY</a></li>
+   <li><a href="#BEST OF">BEST OF</a></li>
+  </ul>
+  </nav>
+  
+</body>
+</html>
